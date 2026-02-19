@@ -72,13 +72,19 @@
   path: Q
 - name: Racket
   extension: rkt
+  path: Racket
 - name: Ruby
   extension: rb
+  path: Ruby
 - name: Rust
   extension: rs
+  path: Rust
 - name: Scala
   extension: scala
+  path: Scala
 - name: Tcl
   extension: tcl
+  path: Tcl
 - name: OCaml
   extension: ml
+  path: OCaml
